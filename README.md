@@ -1,4 +1,4 @@
 == README
 
-Buffer example app to automate posts
+Buffer example app to automate posts & timezones
 
